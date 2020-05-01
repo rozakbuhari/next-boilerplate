@@ -1,0 +1,20 @@
+{
+  "name": "next-boilerplate",
+  "version": "0.1.0",
+  "description": "A Next.js application starter",
+  "main": "index.js",
+  "repository": "https://github.com/rozakbuhari/next-boilerplate.git",
+  "author": "Fathurozak Buhari <rozakbuhari@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.3.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
